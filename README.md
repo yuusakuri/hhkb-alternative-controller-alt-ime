@@ -1,1 +1,1 @@
-# hhkb-alternative-controller
+# hhkb-alternative-controller-alt-ime
